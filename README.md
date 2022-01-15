@@ -7,7 +7,7 @@
 Python programming
 
 ### Description
-Describe what your project is about and what it does
+This project tests my understanding on version control
 
 ### Files used
 Include the files used
