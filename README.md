@@ -18,3 +18,5 @@ It's important to give proper credit. Add links to any repo that inspired you or
 ##Team members
 Me, myself and I
 
+##Duration
+2 days
