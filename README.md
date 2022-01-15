@@ -10,7 +10,7 @@ Python programming
 This project tests my understanding on version control
 
 ### Files used
-Include the files used
+3 csv files and 1 python file
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
